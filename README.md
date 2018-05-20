@@ -1,0 +1,2 @@
+# myblog
+collection blog script
